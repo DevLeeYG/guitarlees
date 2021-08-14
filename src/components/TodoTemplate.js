@@ -15,7 +15,7 @@ const Content = styled.div`
   background: white;
 `;
 
-const TodoTemplate = ({ children }) => {
+const TodoTemplate = ({ children }) => {//childeren 은 자식 컴포넌트들을 가지고오고있음
   return (
     <div className="TodoTemplate">
       <Apptitle>일정관리</Apptitle>

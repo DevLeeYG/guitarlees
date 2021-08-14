@@ -13,10 +13,7 @@ body {
   overflow: hidden;
 }
 
-.TodoInsert {
-  display: flex;
-  background-color: #495057;
-}
+
 
 .TodoList {
   min-height: 320px;
